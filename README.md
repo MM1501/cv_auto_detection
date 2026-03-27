@@ -30,3 +30,8 @@
 
 ```bash
 pip install -r requirements.txt
+
+## Использование
+
+Запустите скрипт, указав путь к видеофайлу:
+python main.py --video <путь к видеофайлу>
